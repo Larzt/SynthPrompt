@@ -146,6 +146,7 @@ fi
 # Minecraft Server
 alias mine='cmd.exe /mnt/c/Users/aleja/Desktop/Minecraft/ServerDiscord/./run.bat'
 # some more ls aliases
+alias gc='git clone'
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
