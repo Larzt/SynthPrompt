@@ -9,7 +9,7 @@
     
   * Installation
     ```plaintext
-    git clone --recursive git@github.com:Larzt/SynthPrompt.git
+    git clone --recursive https://github.com/Larzt/SynthPrompt.git
     chmod +x SynthPrompt/setup.sh
     cd SynthPrompt
     cd src
